@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @Crummbss
-- 👀 I’m interested in space
-- 🌱 I’m currently learning everything.
-- 💞️ I’m looking to collaborate on robotics
+I like space.
 
 <!---
 Crummbss/Crummbss is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
